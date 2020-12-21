@@ -20,8 +20,6 @@ fun main(){
         print(i)
     }
 
-    /** TODO : Steps **/
-
     // Mutable list
     println("\nPlatforms : ")
     val list = mutableListOf("Android", "iOS")
