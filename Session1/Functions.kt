@@ -13,9 +13,9 @@ fun sayHello(name : String = "No name"){
     println("Hello $name")
 }
 
-//fun sayHello(){
-//    println("Hello !")
-//}
+fun sayHello(){
+   println("Hello !")
+}
 
 // Named arguments
 // When calling a function, you can name one or more of its arguments
