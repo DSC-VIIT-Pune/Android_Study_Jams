@@ -40,10 +40,4 @@ fun main(){
     languages.forEachIndexed{ index, it->
         println("Index = $index Value = $it")
     }
-
-    /** Other collections
-     * set
-     * map
-     */
-
 }
