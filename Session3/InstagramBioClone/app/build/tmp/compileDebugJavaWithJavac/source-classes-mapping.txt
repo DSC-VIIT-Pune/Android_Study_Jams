@@ -1,0 +1,2 @@
+com/swado/instagrambioclone/BuildConfig.java
+ com.swado.instagrambioclone.BuildConfig
