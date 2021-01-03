@@ -7,8 +7,6 @@
 
 ## Apps we built
 
-<br>
-
 ### Hello World and Counter App [<a href="https://github.com/DSC-VIIT-Pune/Android_Study_Jams/raw/apk/APKs/Counter.apk">APK</a>]
 <p align="center">
   <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/Hello%20World.png" align="center" height="499.6" />
