@@ -1,8 +1,10 @@
-# Android Study Jams
+<p align="center">
+  <img src="https://developer.android.com/images/kotlin/kotlin-hero.svg" width=100px />
+  <h1 align="center">Android Study Jams</h1>
+  <h4 align="center">Follow a pre-planned online curriculum setup by Google and learn to develop Android applications in Kotlin from scratch</h4>
+</p>
+  
 
-Learn to develop Android applications in Kotlin from scratch
-
-Follow a pre-planned online curriculum setup by google
 
 • Build five different Android apps with the Kotlin programming language.
 
