@@ -5,12 +5,26 @@
   <h4 align="center">Learn how to build Android apps in Kotlin by following an online curriculum setup by Google</h4>
 </p>
 
-• Build five different Android apps with the Kotlin programming language.
+## Apps we built
 
-• Create multiple layouts and add user interactivity to your Android apps.
+### Hello World and Counter App [<a href="">APK</a>]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/Hello%20World.png" align="center" height="499.6" />
+</p>
 
-• Define navigation paths and start an external activity.
+### Instagram Bio Clone App [<a href="">APK</a>]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/Instagram%20Bio%20Clone.png" align="center" height="499.6"/>
+</p>
 
-• Handle complex lifecycle situations and add logging.
+### eKart [<a href="">APK</a>]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/eKart%201.png" align="center" height="499.6" padding="10"/>
+  <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/eKart%202.png" align="center" height="499.6"/>
+  <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/eKart%203.png" align="center" height="499.6"/>
+</p>
 
-• Build multiple robust, production quality apps by following the best practices and recommended architecture.
+### Timer [<a href="">APK</a>]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/Timer.png" align="center" height="499.6"/>
+</p>
