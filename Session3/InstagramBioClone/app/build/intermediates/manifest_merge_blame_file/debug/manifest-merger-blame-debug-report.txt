@@ -25,30 +25,29 @@
 17-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.InstagramBioClone" >
-20-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:11:9-55
-21        <activity android:name="com.swado.instagrambioclone.MainActivity" >
-21-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:12:19-47
-22            <intent-filter>
-22-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:14:17-69
-23-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:16:17-77
-25-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28
-29        <meta-data
-29-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:19:9-21:57
-30            android:name="preloaded_fonts"
-30-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:20:13-43
-31            android:resource="@array/preloaded_fonts" />
-31-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:21:13-54
-32    </application>
-33
-34</manifest>
+19        android:theme="@style/Theme.InstagramBioClone" >
+19-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:11:9-55
+20        <activity android:name="com.swado.instagrambioclone.MainActivity" >
+20-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:12:9-18:20
+20-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:12:19-47
+21            <intent-filter>
+21-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:13:13-17:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:14:17-69
+22-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:14:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:16:17-77
+24-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:16:27-74
+25            </intent-filter>
+26        </activity>
+27
+28        <meta-data
+28-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:19:9-21:57
+29            android:name="preloaded_fonts"
+29-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:20:13-43
+30            android:resource="@array/preloaded_fonts" />
+30-->D:\Android_Study_Jams\Session3\InstagramBioClone\app\src\main\AndroidManifest.xml:21:13-54
+31    </application>
+32
+33</manifest>
