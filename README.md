@@ -20,7 +20,9 @@
 ### eKart [<a href="">APK</a>]
 <p align="center">
   <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/eKart%201.png" align="center" height="499.6" padding="10"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/eKart%202.png" align="center" height="499.6"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/DSC-VIIT-Pune/Android_Study_Jams/apk/Screenshots/eKart%203.png" align="center" height="499.6"/>
 </p>
 
