@@ -1,4 +1,4 @@
-# Android_Study_Jams
+# Android Study Jams
 
 Learn to develop Android applications in Kotlin from scratch
 
